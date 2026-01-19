@@ -16,6 +16,8 @@ Crear los siguientes campos calculados en la fuente de datos:
 #### Campos Calculados Básicos
 ```
 // Diferencia entre Solicitud y Aprobación
+// Valores positivos indican aprobación parcial (monto reducido)
+// Valores negativos indicarían sobre-aprobación (no debería ocurrir)
 Diferencia_Monto
 [Monto_Solicitado] - [Monto_Aprobado]
 
@@ -75,12 +77,15 @@ AVG([Score_Credito])
 ### 2.2 Cálculos Acumulados
 ```
 // Monto Acumulado Aprobado
+// IMPORTANTE: Compute Using → Table (across) para calcular correctamente por fecha
 RUNNING_SUM(SUM([Monto_Aprobado]))
 
 // Monto Acumulado Pagado
+// IMPORTANTE: Compute Using → Table (across) para calcular correctamente por fecha
 RUNNING_SUM(SUM([Monto_Pagado]))
 
 // Número Acumulado de Préstamos
+// IMPORTANTE: Compute Using → Table (across) para calcular correctamente por fecha
 RUNNING_COUNT([ID_Prestamo])
 
 // Porcentaje Acumulado

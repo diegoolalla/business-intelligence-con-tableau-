@@ -318,6 +318,15 @@ Story Points:
 4. Location: Project root directory
 5. Click Save
 6. Verify: File includes all data (check file size > 50KB)
+
+NOTA: El formato .twbx incluye la fuente de datos (CSV) dentro del archivo,
+haciéndolo más grande pero completamente portable. Esto asegura que el archivo
+se puede abrir en cualquier computadora con Tableau sin necesidad del CSV original.
+Implicaciones:
+- Archivo más grande (~100-200KB vs ~20KB para .twb)
+- Totalmente autónomo y portable
+- Ideal para compartir y entregar
+- Incluye todos los datos y metadatos
 ```
 
 ## ✅ Checklist de Validación
