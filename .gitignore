@@ -1,0 +1,32 @@
+# Tableau files (keep only .twbx deliverable)
+*.twb
+.twbr/
+Tableau.log
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Images temporary folder (unless screenshots are added)
+images/.temp/

@@ -1,0 +1,101 @@
+ID_Prestamo,Fecha_Solicitud,Fecha_Aprobacion,Fecha_Desembolso,Monto_Solicitado,Monto_Aprobado,Tasa_Interes,Plazo_Meses,ID_Cliente,Nombre_Cliente,Edad,Genero,Ciudad,Pais,Latitud,Longitud,Tipo_Prestamo,Estado_Prestamo,Monto_Pagado,Fecha_Ultimo_Pago,Score_Credito,Ingreso_Mensual,Empleador,Proposito
+1,2023-01-05,2023-01-07,2023-01-10,15000,15000,12.5,24,C001,Juan Pérez,35,M,Buenos Aires,Argentina,-34.6037,-58.3816,Personal,Activo,7500,2023-12-15,720,45000,Tech Solutions,Consolidación de deudas
+2,2023-01-08,2023-01-10,2023-01-12,25000,22000,11.8,36,C002,María García,42,F,Córdoba,Argentina,-31.4201,-64.1888,Hipotecario,Activo,5500,2023-12-20,680,55000,Banco Nacional,Compra de vivienda
+3,2023-01-12,2023-01-15,2023-01-18,8000,8000,14.2,12,C003,Carlos Rodríguez,28,M,Rosario,Argentina,-32.9442,-60.6505,Personal,Completado,8000,2023-12-10,750,38000,Industrias SA,Educación
+4,2023-01-15,2023-01-17,2023-01-20,35000,30000,10.5,48,C004,Ana Martínez,38,F,Mendoza,Argentina,-32.8895,-68.8458,Empresarial,Activo,12000,2023-12-22,700,75000,Comercial Ltda,Capital de trabajo
+5,2023-01-20,2023-01-22,2023-01-25,12000,12000,13.0,18,C005,Luis Fernández,31,M,La Plata,Argentina,-34.9215,-57.9545,Automotriz,Activo,4000,2023-12-18,690,42000,Municipalidad,Compra de vehículo
+6,2023-01-25,2023-01-27,2023-01-30,18000,18000,12.8,24,C006,Laura Sánchez,45,F,Tucumán,Argentina,-26.8083,-65.2176,Personal,Activo,9000,2023-12-25,710,48000,Hospital Central,Gastos médicos
+7,2023-02-01,2023-02-03,2023-02-05,50000,45000,9.8,60,C007,Roberto López,50,M,Buenos Aires,Argentina,-34.6037,-58.3816,Hipotecario,Activo,15000,2023-12-28,740,90000,Consultora ABC,Ampliación vivienda
+8,2023-02-05,2023-02-07,2023-02-10,10000,10000,13.5,12,C008,Patricia Díaz,33,F,Salta,Argentina,-24.7859,-65.4117,Personal,Completado,10000,2023-11-30,760,40000,Universidad Nacional,Viaje
+9,2023-02-10,2023-02-13,2023-02-15,22000,20000,11.5,36,C009,Jorge Gómez,40,M,San Juan,Argentina,-31.5375,-68.5364,Automotriz,Activo,8000,2023-12-15,685,52000,Minera del Sur,Compra de vehículo
+10,2023-02-15,2023-02-17,2023-02-20,16000,16000,12.2,24,C010,Silvia Castro,37,F,Neuquén,Argentina,-38.9516,-68.0591,Personal,Moroso,6000,2023-10-15,650,44000,Petrolera YPF,Consolidación de deudas
+11,2023-02-20,2023-02-22,2023-02-25,28000,25000,10.8,48,C011,Miguel Torres,44,M,Corrientes,Argentina,-27.4692,-58.8306,Empresarial,Activo,10000,2023-12-20,705,68000,Agroindustria,Equipamiento
+12,2023-02-25,2023-02-28,2023-03-02,14000,14000,12.9,18,C012,Claudia Ruiz,29,F,Paraná,Argentina,-31.7333,-60.5293,Personal,Activo,5600,2023-12-10,725,41000,Banco Provincial,Educación
+13,2023-03-01,2023-03-03,2023-03-05,40000,35000,10.2,60,C013,Fernando Flores,48,M,Mar del Plata,Argentina,-38.0055,-57.5426,Hipotecario,Activo,14000,2023-12-22,715,82000,Naviera SA,Refacción vivienda
+14,2023-03-05,2023-03-08,2023-03-10,9000,9000,13.8,12,C014,Mónica Vargas,34,F,Santa Fe,Argentina,-31.6333,-60.7000,Personal,Completado,9000,2023-12-05,745,39000,Municipio,Electrodomésticos
+15,2023-03-10,2023-03-12,2023-03-15,20000,18000,11.6,30,C015,Alberto Morales,41,M,Posadas,Argentina,-27.3671,-55.8961,Automotriz,Activo,7200,2023-12-18,695,50000,Forestal SA,Compra de vehículo
+16,2023-03-15,2023-03-17,2023-03-20,32000,30000,10.4,48,C016,Gabriela Romero,39,F,Resistencia,Argentina,-27.4514,-58.9867,Empresarial,Activo,12000,2023-12-25,720,72000,Comercio Exterior,Expansión negocio
+17,2023-03-20,2023-03-22,2023-03-25,11000,11000,13.2,15,C017,Ricardo Herrera,30,M,Bahía Blanca,Argentina,-38.7183,-62.2663,Personal,Activo,4400,2023-12-15,710,43000,Puerto SA,Gastos varios
+18,2023-03-25,2023-03-27,2023-03-30,24000,22000,11.4,36,C018,Beatriz Silva,43,F,Formosa,Argentina,-26.1775,-58.1781,Hipotecario,Activo,8800,2023-12-28,700,58000,Ministerio Salud,Compra de vivienda
+19,2023-04-01,2023-04-03,2023-04-05,15000,15000,12.7,24,C019,Pablo Medina,36,M,San Luis,Argentina,-33.3017,-66.3378,Personal,Activo,6000,2023-12-20,715,46000,Construcción SA,Refacción hogar
+20,2023-04-05,2023-04-07,2023-04-10,45000,40000,9.9,60,C020,Carolina Ortiz,47,M,Catamarca,Argentina,-28.4696,-65.7852,Hipotecario,Activo,16000,2023-12-30,730,85000,Minera del Norte,Ampliación vivienda
+21,2023-04-10,2023-04-13,2023-04-15,13000,13000,13.1,18,C021,Diego Ramírez,32,M,La Rioja,Argentina,-29.4131,-66.8558,Personal,Completado,13000,2023-12-01,735,42000,Universidad,Educación postgrado
+22,2023-04-15,2023-04-17,2023-04-20,26000,24000,11.0,36,C022,Valeria Navarro,40,F,Santiago del Estero,Argentina,-27.7834,-64.2642,Automotriz,Activo,9600,2023-12-22,690,56000,Gobierno Provincial,Compra de vehículo
+23,2023-04-20,2023-04-22,2023-04-25,19000,19000,12.1,24,C023,Martín Iglesias,38,M,San Salvador de Jujuy,Argentina,-24.1858,-65.2995,Personal,Activo,7600,2023-12-18,705,49000,Ingenio Azucarero,Consolidación deudas
+24,2023-04-25,2023-04-28,2023-05-01,38000,35000,10.3,48,C024,Alejandra Campos,46,F,Viedma,Argentina,-40.8135,-62.9967,Empresarial,Activo,14000,2023-12-25,725,78000,Pesca Industrial,Capital de trabajo
+25,2023-05-01,2023-05-03,2023-05-05,8500,8500,14.0,12,C025,Sergio Delgado,27,M,Ushuaia,Argentina,-54.8019,-68.3029,Personal,Completado,8500,2023-12-10,755,37000,Turismo Austral,Viaje
+26,2023-05-05,2023-05-08,2023-05-10,21000,19000,11.7,30,C026,Andrea Gutiérrez,35,F,Río Gallegos,Argentina,-51.6230,-69.2168,Automotriz,Activo,7600,2023-12-15,700,51000,Petrolera,Compra de vehículo
+27,2023-05-10,2023-05-12,2023-05-15,30000,28000,10.6,48,C027,Raúl Moreno,42,M,Trelew,Argentina,-43.2489,-65.3050,Empresarial,Activo,11200,2023-12-20,710,70000,Textil Patagonia,Maquinaria
+28,2023-05-15,2023-05-17,2023-05-20,12500,12500,12.8,18,C028,Liliana Paz,31,F,Comodoro Rivadavia,Argentina,-45.8644,-67.4806,Personal,Activo,5000,2023-12-22,720,43000,Hospital Regional,Gastos médicos
+29,2023-05-20,2023-05-22,2023-05-25,42000,38000,10.0,60,C029,Gustavo Ríos,49,M,Buenos Aires,Argentina,-34.6037,-58.3816,Hipotecario,Activo,15200,2023-12-28,735,88000,IT Corporation,Compra de vivienda
+30,2023-05-25,2023-05-27,2023-05-30,16500,16500,12.3,24,C030,Cecilia Luna,36,F,Córdoba,Argentina,-31.4201,-64.1888,Personal,Moroso,5500,2023-09-30,645,45000,Comercio Retail,Consolidación deudas
+31,2023-06-01,2023-06-03,2023-06-05,27000,25000,11.1,36,C031,Oscar Vega,39,M,Rosario,Argentina,-32.9442,-60.6505,Automotriz,Activo,10000,2023-12-15,695,57000,Logística SA,Compra de vehículo
+32,2023-06-05,2023-06-08,2023-06-10,14500,14500,12.9,18,C032,Rosa Acosta,33,F,Mendoza,Argentina,-32.8895,-68.8458,Personal,Activo,5800,2023-12-18,715,44000,Bodega Los Andes,Viaje
+33,2023-06-10,2023-06-12,2023-06-15,48000,43000,9.7,60,C033,Héctor Paredes,51,M,La Plata,Argentina,-34.9215,-57.9545,Hipotecario,Activo,17200,2023-12-22,740,92000,Abogado Senior,Compra de vivienda
+34,2023-06-15,2023-06-17,2023-06-20,10500,10500,13.4,12,C034,Inés Rojas,28,F,Tucumán,Argentina,-26.8083,-65.2176,Personal,Completado,10500,2023-12-05,750,38000,Docente,Educación
+35,2023-06-20,2023-06-22,2023-06-25,23000,21000,11.5,30,C035,Néstor Cabrera,37,M,Salta,Argentina,-24.7859,-65.4117,Automotriz,Activo,8400,2023-12-20,700,53000,Tabacalera,Compra de vehículo
+36,2023-06-25,2023-06-28,2023-07-01,35000,32000,10.5,48,C036,Teresa Molina,44,F,San Juan,Argentina,-31.5375,-68.5364,Empresarial,Activo,12800,2023-12-25,720,74000,Viñedo Premium,Equipamiento
+37,2023-07-01,2023-07-03,2023-07-05,17000,17000,12.4,24,C037,Andrés Soto,34,M,Neuquén,Argentina,-38.9516,-68.0591,Personal,Activo,6800,2023-12-15,710,47000,Gas del Sur,Refacción hogar
+38,2023-07-05,2023-07-08,2023-07-10,29000,27000,10.7,36,C038,Isabel Benítez,41,F,Corrientes,Argentina,-27.4692,-58.8306,Hipotecario,Activo,10800,2023-12-28,705,62000,Docente Universitaria,Compra de vivienda
+39,2023-07-10,2023-07-12,2023-07-15,11500,11500,13.3,15,C039,Ramón Ponce,29,M,Paraná,Argentina,-31.7333,-60.5293,Personal,Activo,4600,2023-12-18,725,40000,Municipalidad,Gastos varios
+40,2023-07-15,2023-07-17,2023-07-20,25000,23000,11.3,36,C040,Marina Quiroz,42,F,Mar del Plata,Argentina,-38.0055,-57.5426,Automotriz,Activo,9200,2023-12-22,695,55000,Turismo Costero,Compra de vehículo
+41,2023-07-20,2023-07-22,2023-07-25,33000,30000,10.4,48,C041,Julio Figueroa,45,M,Santa Fe,Argentina,-31.6333,-60.7000,Empresarial,Activo,12000,2023-12-25,715,71000,Agroexportadora,Capital de trabajo
+42,2023-07-25,2023-07-27,2023-07-30,13500,13500,12.9,18,C042,Norma Aguilar,32,F,Posadas,Argentina,-27.3671,-55.8961,Personal,Activo,5400,2023-12-20,720,42000,Hospital Privado,Gastos médicos
+43,2023-08-01,2023-08-03,2023-08-05,46000,41000,9.8,60,C043,Esteban Ramos,48,M,Resistencia,Argentina,-27.4514,-58.9867,Hipotecario,Activo,16400,2023-12-28,730,86000,Algodonera SA,Ampliación vivienda
+44,2023-08-05,2023-08-08,2023-08-10,9500,9500,13.7,12,C044,Graciela Mendoza,30,F,Bahía Blanca,Argentina,-38.7183,-62.2663,Personal,Completado,9500,2023-11-30,745,39000,Cooperativa,Electrodomésticos
+45,2023-08-10,2023-08-12,2023-08-15,20500,19000,11.8,30,C045,Ignacio Córdoba,38,M,Formosa,Argentina,-26.1775,-58.1781,Automotriz,Activo,7600,2023-12-15,690,52000,Ganadería,Compra de vehículo
+46,2023-08-15,2023-08-17,2023-08-20,31000,29000,10.6,48,C046,Viviana Espinoza,43,F,San Luis,Argentina,-33.3017,-66.3378,Empresarial,Activo,11600,2023-12-22,710,69000,Minera Regional,Maquinaria
+47,2023-08-20,2023-08-22,2023-08-25,15500,15500,12.6,24,C047,Daniel Carrasco,35,M,Catamarca,Argentina,-28.4696,-65.7852,Personal,Activo,6200,2023-12-18,715,46000,Construcción,Consolidación deudas
+48,2023-08-25,2023-08-28,2023-09-01,37000,34000,10.3,48,C048,Marta Núñez,46,F,La Rioja,Argentina,-29.4131,-66.8558,Hipotecario,Activo,13600,2023-12-25,725,76000,Viñícola,Compra de vivienda
+49,2023-09-01,2023-09-03,2023-09-05,12000,12000,13.0,18,C049,Francisco Bravo,31,M,Santiago del Estero,Argentina,-27.7834,-64.2642,Personal,Activo,4800,2023-12-20,720,43000,Ferrocarriles,Educación
+50,2023-09-05,2023-09-08,2023-09-10,24000,22000,11.4,36,C050,Elena Salas,40,F,San Salvador de Jujuy,Argentina,-24.1858,-65.2995,Automotriz,Activo,8800,2023-12-28,700,54000,Gobierno,Compra de vehículo
+51,2023-09-10,2023-09-12,2023-09-15,44000,40000,9.9,60,C051,Rubén Peña,50,M,Buenos Aires,Argentina,-34.6037,-58.3816,Hipotecario,Activo,16000,2023-12-15,735,87000,Financiera,Compra de vivienda
+52,2023-09-15,2023-09-17,2023-09-20,10000,10000,13.5,12,C052,Alicia Valdés,29,F,Córdoba,Argentina,-31.4201,-64.1888,Personal,Completado,10000,2023-12-05,750,40000,Marketing Digital,Viaje
+53,2023-09-20,2023-09-22,2023-09-25,22000,20000,11.6,30,C053,Emilio Reyes,36,M,Rosario,Argentina,-32.9442,-60.6505,Automotriz,Moroso,6000,2023-10-20,640,51000,Transporte,Compra de vehículo
+54,2023-09-25,2023-09-28,2023-10-01,34000,31000,10.5,48,C054,Susana León,44,F,Mendoza,Argentina,-32.8895,-68.8458,Empresarial,Activo,12400,2023-12-22,715,73000,Exportación Frutas,Capital de trabajo
+55,2023-10-01,2023-10-03,2023-10-05,16000,16000,12.5,24,C055,Cristian Ochoa,33,M,La Plata,Argentina,-34.9215,-57.9545,Personal,Activo,6400,2023-12-18,710,45000,Informática,Consolidación deudas
+56,2023-10-05,2023-10-08,2023-10-10,28000,26000,10.8,36,C056,Julia Sandoval,41,F,Tucumán,Argentina,-26.8083,-65.2176,Hipotecario,Activo,10400,2023-12-25,705,61000,Clínica Privada,Refacción vivienda
+57,2023-10-10,2023-10-12,2023-10-15,11000,11000,13.2,15,C057,Armando Gil,30,M,Salta,Argentina,-24.7859,-65.4117,Personal,Activo,4400,2023-12-15,720,41000,Aeropuerto,Gastos varios
+58,2023-10-15,2023-10-17,2023-10-20,26000,24000,11.2,36,C058,Miriam Cortés,39,F,San Juan,Argentina,-31.5375,-68.5364,Automotriz,Activo,9600,2023-12-28,695,56000,Energía Solar,Compra de vehículo
+59,2023-10-20,2023-10-22,2023-10-25,36000,33000,10.4,48,C059,Gonzalo Fuentes,47,M,Neuquén,Argentina,-38.9516,-68.0591,Empresarial,Activo,13200,2023-12-20,720,75000,Hidrocarburos,Expansión negocio
+60,2023-10-25,2023-10-27,2023-10-30,14000,14000,12.8,18,C060,Adriana Ibáñez,34,F,Corrientes,Argentina,-27.4692,-58.8306,Personal,Activo,5600,2023-12-22,715,44000,Educación,Educación postgrado
+61,2023-11-01,2023-11-03,2023-11-05,47000,42000,9.8,60,C061,Enrique Maldonado,49,M,Paraná,Argentina,-31.7333,-60.5293,Hipotecario,Activo,16800,2023-12-28,730,89000,Agronegocios,Compra de vivienda
+62,2023-11-05,2023-11-08,2023-11-10,9000,9000,13.8,12,C062,Carmen Garay,28,F,Mar del Plata,Argentina,-38.0055,-57.5426,Personal,Completado,9000,2023-12-10,745,38000,Hotelería,Electrodomésticos
+63,2023-11-10,2023-11-12,2023-11-15,21000,19000,11.7,30,C063,Tomás Vera,37,M,Santa Fe,Argentina,-31.6333,-60.7000,Automotriz,Activo,7600,2023-12-15,690,52000,Industria Láctea,Compra de vehículo
+64,2023-11-15,2023-11-17,2023-11-20,32000,30000,10.5,48,C064,Olga Bustos,42,F,Posadas,Argentina,-27.3671,-55.8961,Empresarial,Activo,12000,2023-12-22,710,70000,Maderera,Maquinaria
+65,2023-11-20,2023-11-22,2023-11-25,13000,13000,13.0,18,C065,Nicolás Arias,32,M,Resistencia,Argentina,-27.4514,-58.9867,Personal,Activo,5200,2023-12-18,720,43000,Textil,Refacción hogar
+66,2023-11-25,2023-11-28,2023-12-01,25000,23000,11.3,36,C066,Fernanda Lara,40,F,Bahía Blanca,Argentina,-38.7183,-62.2663,Hipotecario,Activo,9200,2023-12-25,700,58000,Puerto Comercial,Compra de vivienda
+67,2023-12-01,2023-12-03,2023-12-05,39000,36000,10.2,48,C067,Leandro Cuevas,45,M,Formosa,Argentina,-26.1775,-58.1781,Empresarial,Activo,14400,2023-12-28,725,77000,Ganadería Premium,Capital de trabajo
+68,2023-12-05,2023-12-08,2023-12-10,8000,8000,14.0,12,C068,Paola Montero,27,F,San Luis,Argentina,-33.3017,-66.3378,Personal,Activo,2666,2023-12-22,755,37000,Startup Tech,Viaje
+69,2023-12-10,2023-12-12,2023-12-15,18000,17000,12.2,24,C069,Mauricio Blanco,36,M,Catamarca,Argentina,-28.4696,-65.7852,Automotriz,Activo,4250,2023-12-28,705,48000,Minería,Compra de vehículo
+70,2023-12-15,2023-12-17,2023-12-20,29000,27000,10.7,36,C070,Leticia Rivas,41,F,La Rioja,Argentina,-29.4131,-66.8558,Hipotecario,Activo,2250,2023-12-30,710,63000,Salud Pública,Refacción vivienda
+71,2023-01-18,2023-01-20,2023-01-23,7500,7500,14.5,12,C071,Gabriel Suárez,26,M,Santiago del Estero,Argentina,-27.7834,-64.2642,Personal,Completado,7500,2023-12-08,740,36000,Call Center,Gastos varios
+72,2023-02-22,2023-02-24,2023-02-27,52000,48000,9.5,60,C072,Karina Méndez,52,F,Buenos Aires,Argentina,-34.6037,-58.3816,Hipotecario,Activo,19200,2023-12-20,745,95000,Contadora Pública,Compra de vivienda
+73,2023-03-08,2023-03-10,2023-03-13,13500,13500,12.9,18,C073,Rodrigo Vidal,33,M,Córdoba,Argentina,-31.4201,-64.1888,Personal,Activo,5400,2023-12-15,715,44000,Seguros,Educación
+74,2023-04-12,2023-04-14,2023-04-17,23500,21500,11.5,30,C074,Verónica Muñoz,38,F,Rosario,Argentina,-32.9442,-60.6505,Automotriz,Activo,8600,2023-12-28,700,53000,Farmacéutica,Compra de vehículo
+75,2023-05-18,2023-05-20,2023-05-23,41000,37000,10.1,48,C075,Santiago Herrera,46,M,Mendoza,Argentina,-32.8895,-68.8458,Empresarial,Activo,14800,2023-12-22,720,79000,Vitivinícola,Equipamiento
+76,2023-06-14,2023-06-16,2023-06-19,10500,10500,13.4,12,C076,Diana Serrano,29,F,La Plata,Argentina,-34.9215,-57.9545,Personal,Completado,10500,2023-12-01,750,39000,Diseño Gráfico,Viaje
+77,2023-07-22,2023-07-24,2023-07-27,27500,25500,10.9,36,C077,Federico Peralta,40,M,Tucumán,Argentina,-26.8083,-65.2176,Hipotecario,Activo,10200,2023-12-18,705,60000,Azucarera,Compra de vivienda
+78,2023-08-16,2023-08-18,2023-08-21,14500,14500,12.7,18,C078,Lorena Cabral,31,F,Salta,Argentina,-24.7859,-65.4117,Personal,Activo,5800,2023-12-25,720,43000,Gobierno Local,Consolidación deudas
+79,2023-09-19,2023-09-21,2023-09-24,34500,32000,10.5,48,C079,Claudio Zamora,44,M,San Juan,Argentina,-31.5375,-68.5364,Empresarial,Activo,12800,2023-12-15,715,74000,Construcción,Capital de trabajo
+80,2023-10-23,2023-10-25,2023-10-28,17500,17500,12.3,24,C080,Sonia Ríos,35,F,Neuquén,Argentina,-38.9516,-68.0591,Personal,Moroso,5250,2023-11-15,635,46000,Comercio,Gastos médicos
+81,2023-11-17,2023-11-19,2023-11-22,49000,44000,9.7,60,C081,Maximiliano Álvarez,50,M,Corrientes,Argentina,-27.4692,-58.8306,Hipotecario,Activo,17600,2023-12-28,735,90000,Arquitecto,Ampliación vivienda
+82,2023-12-12,2023-12-14,2023-12-17,11500,11500,13.2,15,C082,Yamila Franco,30,F,Paraná,Argentina,-31.7333,-60.5293,Personal,Activo,3833,2023-12-30,725,41000,Recursos Humanos,Gastos varios
+83,2023-01-28,2023-01-30,2023-02-02,19500,19500,12.0,24,C083,Lucas Giménez,37,M,Mar del Plata,Argentina,-38.0055,-57.5426,Automotriz,Activo,7800,2023-12-20,710,49000,Pesca,Compra de vehículo
+84,2023-03-22,2023-03-24,2023-03-27,30500,28500,10.6,36,C084,Natalia Carrizo,42,F,Santa Fe,Argentina,-31.6333,-60.7000,Hipotecario,Activo,11400,2023-12-25,705,65000,Veterinaria,Refacción vivienda
+85,2023-05-26,2023-05-28,2023-05-31,12500,12500,13.0,18,C085,Bruno Ledesma,32,M,Posadas,Argentina,-27.3671,-55.8961,Personal,Activo,5000,2023-12-15,720,42000,Forestal,Educación
+86,2023-07-28,2023-07-30,2023-08-02,24500,22500,11.4,30,C086,Jimena Cardozo,39,F,Resistencia,Argentina,-27.4514,-58.9867,Automotriz,Activo,9000,2023-12-28,695,54000,Algodonera,Compra de vehículo
+87,2023-09-29,2023-10-01,2023-10-04,43000,39000,10.0,48,C087,Facundo Miranda,47,M,Bahía Blanca,Argentina,-38.7183,-62.2663,Empresarial,Activo,15600,2023-12-22,725,80000,Naviera,Maquinaria
+88,2023-11-24,2023-11-26,2023-11-29,9500,9500,13.6,12,C088,Romina Tejeda,28,F,Formosa,Argentina,-26.1775,-58.1781,Personal,Activo,3166,2023-12-30,740,38000,Enfermería,Electrodomésticos
+89,2023-02-16,2023-02-18,2023-02-21,20500,19000,11.8,30,C089,Damián Loyola,38,M,San Luis,Argentina,-33.3017,-66.3378,Automotriz,Activo,7600,2023-12-18,690,51000,Turismo,Compra de vehículo
+90,2023-04-26,2023-04-28,2023-05-01,33500,31000,10.5,48,C090,Daniela Escobar,43,F,Catamarca,Argentina,-28.4696,-65.7852,Empresarial,Activo,12400,2023-12-25,710,72000,Minera,Capital de trabajo
+91,2023-06-28,2023-06-30,2023-07-03,15000,15000,12.6,24,C091,Matías Benítez,34,M,La Rioja,Argentina,-29.4131,-66.8558,Personal,Activo,6000,2023-12-15,715,45000,Bodega,Consolidación deudas
+92,2023-08-30,2023-09-01,2023-09-04,26500,24500,11.2,36,C092,Virginia Juárez,40,F,Santiago del Estero,Argentina,-27.7834,-64.2642,Hipotecario,Activo,9800,2023-12-28,700,57000,Docencia,Compra de vivienda
+93,2023-10-31,2023-11-02,2023-11-05,45000,41000,9.9,60,C093,Sebastián Montiel,48,M,Buenos Aires,Argentina,-34.6037,-58.3816,Hipotecario,Activo,16400,2023-12-22,730,88000,Ingeniería,Compra de vivienda
+94,2023-12-20,2023-12-22,2023-12-26,8500,8500,14.1,12,C094,Carla Coronel,27,F,Córdoba,Argentina,-31.4201,-64.1888,Personal,Activo,2125,2023-12-30,745,37000,Publicidad,Viaje
+95,2023-03-30,2023-04-01,2023-04-04,21500,20000,11.6,30,C095,Mariano Acuña,36,M,Rosario,Argentina,-32.9442,-60.6505,Automotriz,Activo,8000,2023-12-20,695,52000,Logística,Compra de vehículo
+96,2023-06-02,2023-06-04,2023-06-07,35500,33000,10.4,48,C096,Débora Piñeiro,44,F,Mendoza,Argentina,-32.8895,-68.8458,Empresarial,Activo,13200,2023-12-25,720,75000,Fruticultura,Equipamiento
+97,2023-08-08,2023-08-10,2023-08-13,13000,13000,12.9,18,C097,Iván Zárate,31,M,La Plata,Argentina,-34.9215,-57.9545,Personal,Activo,5200,2023-12-18,715,43000,Software,Educación
+98,2023-10-12,2023-10-14,2023-10-17,28500,26500,10.8,36,C098,Romina Lagos,41,F,Tucumán,Argentina,-26.8083,-65.2176,Hipotecario,Activo,10600,2023-12-28,705,62000,Medicina Privada,Refacción vivienda
+99,2023-12-08,2023-12-10,2023-12-13,16500,16500,12.4,24,C099,Pablo Vera,35,M,Salta,Argentina,-24.7859,-65.4117,Personal,Activo,4125,2023-12-30,710,46000,Aerolíneas,Gastos varios
+100,2023-07-06,2023-07-08,2023-07-11,50000,46000,9.6,60,C100,Marcela Ferrer,51,F,San Juan,Argentina,-31.5375,-68.5364,Hipotecario,Activo,18400,2023-12-25,740,93000,Médica,Compra de vivienda
